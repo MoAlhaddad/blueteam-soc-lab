@@ -1,0 +1,12 @@
+﻿timestamp,username,source_ip,event_type,resource
+2026-10-01T09:00:00Z,jane,192.0.2.10,success,email
+2026-10-01T09:01:00Z,jane,192.0.2.10,success,files
+2026-10-01T09:05:00Z,alex,192.0.2.20,failure,email
+2026-10-01T09:05:20Z,alex,192.0.2.20,failure,email
+2026-10-01T09:05:40Z,alex,192.0.2.20,failure,email
+2026-10-01T09:06:00Z,alex,192.0.2.20,failure,email
+2026-10-01T09:06:20Z,alex,192.0.2.20,failure,email
+2026-10-01T09:07:00Z,alex,192.0.2.20,success,email
+2026-10-01T09:08:00Z,alex,192.0.2.20,success,admin-portal
+2026-10-01T09:09:00Z,sam,192.0.2.30,success,email
+2026-10-01T09:10:00Z,sam,192.0.2.30,failure,email
